@@ -10,5 +10,7 @@ ComInfBR significa ```Com```unidade de ```Inf```ormação ```Br```asileira. <br>
 Caso o incomode, fale com o [Carlos Vitor](mailto:contatos.carlosv@gmail.com) por email e peça a remoção da informação imprópria.
 
 ---
+## 📝 Licença
 
+Este projeto está licenciado sob a Licença  BSD 2 - consulte o arquivo [LICENÇA BSD](https://github.com/Cominfbr/Marca/blob/Master/LICENSE) para obter detalhes.
 Copyright© 2021,ComInfBR Todos os direitos reservados. 
