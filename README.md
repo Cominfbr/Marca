@@ -11,4 +11,4 @@ Caso o incomode, fale com o [Carlos Vitor](mailto:contatos.carlosv@gmail.com) po
 
 ---
 
-Copyright(c) 2021,ComInfBR Todos os direitos reservados. 
+Copyright© 2021,ComInfBR Todos os direitos reservados. 
