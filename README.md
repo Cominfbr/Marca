@@ -2,6 +2,7 @@
 Concepções artísticas
 
 <a href="https://github.com/cominfbr"><img align='center' src="https://github.com/Cominfbr/Logos/blob/Master/logo_transparent.png"></a>
+<br>
 Essas ideias por trás dos logos mostram : Futurismo, Simplicidade, estilo minimalista e algumas concepções de arte. 
 
 ComInfBR significa ```Com```unidade de ```Inf```ormação ```Br```asileira. <br> 
