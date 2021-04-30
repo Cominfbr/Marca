@@ -12,7 +12,7 @@ ComInfBR significa ```Com```unidade de ```Inf```ormação ```Br```asileira. <br>
 Caso o incomode, fale com o [Carlos Vítor](mailto:contatos.carlosv@gmail.com) por email e peça a remoção da informação imprópria.
 
 ---
-## 📝 Licença
+## Licença
 
-Este projeto está licenciado sob a Licença  BSD 2 - consulte o arquivo [LICENÇA BSD](https://github.com/Cominfbr/Marca/blob/Master/LICENSE) para obter detalhes.
-Copyright© 2021,**ComInfBR** Todos os direitos reservados. 
+Cominfbr Brand © <a href="https://cominfbr.cf/">Cominfbr</a> 2018-2021 Lançado sob a <a href="https://github.com/Cominfbr/marca/blob/master/LICENSE"> Licença BSD 2-Cláusula </a>. De autoria e manutenção de Carlos Vítor com a ajuda de <a href="https://github.com/Cominfbr/marca/pulse">colaboradores</a>.
+> Github: <a href="github.com/cominfbr">@Cominfbr</a> • Twitter: <a href="twitter.com/cominfbr">@Cominfbr</a> • LinkedIn: <a href="linkedin.com/company/cominfbr">Cominf-br</a>
