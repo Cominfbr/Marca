@@ -14,5 +14,5 @@ Caso o incomode, fale com o [Carlos Vítor](mailto:contatos.carlosv@gmail.com) p
 ---
 ## Licença
 
-Cominfbr Brand © <a href="https://cominfbr.cf/">Cominfbr</a> 2018-2021 Lançado sob a <a href="https://github.com/Cominfbr/marca/blob/master/LICENSE"> Licença BSD 2-Cláusula </a>. De autoria e manutenção de <a href="https://github.com/carlosvitr">Carlos Vítor</a> com a ajuda de <a href="https://github.com/Cominfbr/marca/pulse">colaboradores</a>.
+Cominfbr Brand © <a href="https://cominfbr.cf/">Cominfbr</a>, Lançado sob a <a href="https://github.com/Cominfbr/marca/blob/master/LICENSE"> Licença BSD 2-Cláusula </a>. De autoria e manutenção de <a href="https://github.com/carlosvitr">Carlos Vítor</a> com a ajuda de <a href="https://github.com/Cominfbr/marca/pulse">colaboradores</a>.
 > Github: <a href="github.com/cominfbr">@Cominfbr</a> • Twitter: <a href="twitter.com/cominfbr">@Cominfbr</a> • LinkedIn: <a href="linkedin.com/company/cominfbr">Cominf-br</a>
